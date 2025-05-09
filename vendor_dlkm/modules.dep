@@ -286,8 +286,6 @@
 /vendor_dlkm/lib/modules/qcom-spmi-adc5.ko: /vendor_dlkm/lib/modules/qcom-vadc-common.ko
 /vendor_dlkm/lib/modules/qcom-vadc-common.ko:
 /vendor_dlkm/lib/modules/qcom_llcc_pmu.ko:
-/vendor_dlkm/lib/modules/coresight-clk-placeholder.ko:
-/vendor_dlkm/lib/modules/coresight-clk-amba-placeholder.ko:
 /vendor_dlkm/lib/modules/nvmem_qfprom.ko:
 /vendor_dlkm/lib/modules/nvmem_qcom-spmi-sdam.ko:
 /vendor_dlkm/lib/modules/icc-bcm-voter.ko: /vendor_dlkm/lib/modules/qcom_rpmh.ko /vendor_dlkm/lib/modules/cmd-db.ko
